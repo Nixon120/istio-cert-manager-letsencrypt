@@ -14,6 +14,6 @@ spec:
         exact: /
     route:
     - destination:
-        host: testpage
+        host: httpbin
         port:
-          number: 8080
+          number: 8000
